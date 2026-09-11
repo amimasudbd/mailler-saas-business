@@ -1,9 +1,9 @@
-  =>  Template Name    : Mailler - SaaS Website Template
+  =>  Template Name    : MASUD MAILLER - SaaS Website Template
 
-  =>  Template Link    : https://htmlcodex.com/saas-website-template
+  =>  Template Link    : #saas-website-template
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+  =>  Template License : #license (or read the LICENSE.txt file)
 
-  =>  Template Author  : HTML Codex
+  =>  Template Author  : IT MASUD
 
-  =>  Author Website   : https://htmlcodex.com
+  =>  Author Website   : https://amimasudbd.github.io/portfolio
